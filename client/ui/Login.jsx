@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     marginBottom: 10
   },
   welcome: {
-    fontSize: 30,
+    fontSize: 20,
     textAlign: 'center',
     marginBottom: 20
   },
