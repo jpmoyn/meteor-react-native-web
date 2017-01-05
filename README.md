@@ -5,7 +5,7 @@ This gives you the ability to use Native UI components from the React Native pro
 
 This simple boilerplate will save you about an hour setting up all of the necessary components :)
 
-To get started, clone the repo. and then install the necessary npm packages like so:
+To get started, clone the repo, and then install the necessary npm packages like so:
 
 `meteor npm install --save react react-dom react-native-web`
 
