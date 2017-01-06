@@ -3,7 +3,7 @@ A simple client only boilerplate app for the react-native-web package used withi
 
 This gives you the ability to use Native UI components from the React Native project on the web with a meteor application.
 
-This simple boilerplate will save you about an hour setting up all of the necessary components :)
+This simple boilerplate will save you about an hour, from setting it up to getting a beginners understanding of how the ecosystem works :)
 
 To get started, clone the repo, and then install the necessary npm packages like so:
 
