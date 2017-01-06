@@ -5,7 +5,6 @@ import {
   StyleSheet,
   Text,
   View,
-  Image,
   TextInput,
   Button
 } from 'react-native-web';
@@ -33,11 +32,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 10
-  },
-  logo: {
-    alignSelf: 'center',
-    height: 150,
-    marginBottom: 10
   },
   welcome: {
     fontSize: 20,
