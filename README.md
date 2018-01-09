@@ -7,7 +7,7 @@ This simple boilerplate will save you about an hour, from setting it up to getti
 
 To get started, clone the repo, and then install the necessary npm packages like so:
 
-`meteor npm install --save react react-dom react-native-web`
+`meteor npm install`
 
 
 For documentation regarding the react-native-web package see the repo: https://github.com/necolas/react-native-web
